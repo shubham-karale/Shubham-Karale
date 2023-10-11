@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/cyberton768" target="blank"><img src="https://img.shields.io/twitter/follow/cyberton768?logo=twitter&style=for-the-badge" alt="cyberton768" /></a> </p>
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **React Native**
 
 - 📝 I regularly write articles on [https://hashnode.com/@Cyberton207](https://hashnode.com/@Cyberton207)
 
