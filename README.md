@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/cyberton768" target="blank"><img src="https://img.shields.io/twitter/follow/cyberton768?logo=twitter&style=for-the-badge" alt="cyberton768" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Cross Platform App Developement Using React Native**
 
 - 📝 I regularly write articles on [https://hashnode.com/@Cyberton207](https://hashnode.com/@Cyberton207)
 
-- 💬 Ask me about **HTML,CSS,Javascript,Java,C++,C,Python,Shell Scripting,Linux,Git,YAML,Docker**
+- 💬 Ask me about **HTML,CSS,Javascript,Java,Kotlin,Android Developement,React Native App Developement,C++,C,Python,Shell Scripting,Linux,Docker,**
 
 - 📫 How to reach me **shubhamkarale768ms@gmail.com**
 
