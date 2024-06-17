@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://hashnode.com/@Cyberton207](https://hashnode.com/@Cyberton207)
 
-- 💬 Ask me about **HTML,CSS,Javascript,Java,Kotlin,Android Developement,React JS,Next JS,React Native App Developement,C++,C,Python,Shell Scripting,Linux,Docker,Kubernetes,AWS,Jenkins,Teraform,Git**
+- 💬 Ask me about **HTML,CSS,Javascript,Java,Kotlin,Android Developement,React JS,Next JS,React Native App Developement,C++,C,Python,Mysql,MongoDB,Shell Scripting,Linux,Docker,Kubernetes,AWS,Jenkins,Teraform,Git**
 
 - 📫 How to reach me **shubhamkarale768ms@gmail.com**
 
